@@ -12,3 +12,17 @@ C:\Users\user\Desktop\New folder\C#\ClassroomTasks\StudentClass\StudentClass\bin
 C:\Users\user\Desktop\New folder\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.dll
 C:\Users\user\Desktop\New folder\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.pdb
 C:\Users\user\Desktop\New folder\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.genruntimeconfig.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.exe
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.deps.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.runtimeconfig.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\bin\Debug\netcoreapp3.1\StudentClass.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\StudentClass\StudentClass\obj\Debug\netcoreapp3.1\StudentClass.genruntimeconfig.cache

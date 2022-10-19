@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\New folder\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj": {}
+    "C:\\Users\\user\\Desktop\\Programming\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\New folder\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj": {
+    "C:\\Users\\user\\Desktop\\Programming\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Programming\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj",
         "projectName": "StudentClass",
-        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Programming\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\StudentClass.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Programming\\C#\\ClassroomTasks\\StudentClass\\StudentClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

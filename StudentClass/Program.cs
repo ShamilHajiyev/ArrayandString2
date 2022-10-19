@@ -6,11 +6,12 @@ namespace StudentClass
     {
         static void Main(string[] args)
         {
-            Student student = new Student("Shamil","Hajiyev","zu050",91,false);
-            Console.WriteLine(student.GetData());
+            Student student = new Student("Shamil", "Hajiyev", "ZU-050", 91, false);
+            Console.WriteLine(student.GetData() + "\n");
             Console.WriteLine(student.NextExam());
         }
     }
+
     class Student
     {
         public string Name;
@@ -29,23 +30,14 @@ namespace StudentClass
         }
         public string GetFullName()
         {
-            return $"Name: {Name}\nSurname:{Surname}";
+            return $"Name: {Name}\nSurname: {Surname}";
         }
 
         public string GetData()
         {
-            string graduated;
-            if (IsGraduated)
-            {
-                graduated = "Student is graduated";
-            }
-            else
-            {
-                graduated = "Student is not graduated";
-            }
-            
-            return $"Name: {Name}\nSurname:{Surname}\nGroup: {Group}\nPoint:{Point}\n{graduated}";
+            return $"Name: {Name}\nSurname: {Surname}\nGroup: {Group}\nPoint: {Point}\n{(IsGraduated ? "Student is graduated" : "Student is not graduated")}";
         }
+
         public string NextExam()
         {
             if (Point > 80)
@@ -56,8 +48,6 @@ namespace StudentClass
             {
                 return "Have not access to the second exam";
             }
-
-            
         }
     }
 }
